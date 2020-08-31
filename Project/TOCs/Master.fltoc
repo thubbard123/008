@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Getting Started">
+    <TocEntry
+      Title="Basic Steps" />
+    <TocEntry
+      Title="What's New" />
+  </TocEntry>
+  <TocEntry
+    Title="Links and Lists">
+    <TocEntry
+      Title="Links and Footnotes" />
+    <TocEntry
+      Title="Lists" />
+  </TocEntry>
+  <TocEntry
+    Title="Images">
+    <TocEntry
+      Title="Thumbnail Image" />
+    <TocEntry
+      Title="Positioned Images">
+      <TocEntry
+        Title="Image Positioned Left" />
+      <TocEntry
+        Title="Image Positioned Right" />
+    </TocEntry>
+    <TocEntry
+      Title="Image Within List" />
+  </TocEntry>
+  <TocEntry
+    Title="More Features">
+    <TocEntry
+      Title="Conditions" />
+    <TocEntry
+      Title="Notes, Examples, and Blockquotes" />
+    <TocEntry
+      Title="Tables" />
+  </TocEntry>
+</CatapultToc>
